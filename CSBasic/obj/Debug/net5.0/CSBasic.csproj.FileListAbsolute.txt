@@ -1,0 +1,16 @@
+D:\CSEnsyu\CSBasic\CSBasic\bin\Debug\net5.0\CSBasic.exe
+D:\CSEnsyu\CSBasic\CSBasic\bin\Debug\net5.0\CSBasic.deps.json
+D:\CSEnsyu\CSBasic\CSBasic\bin\Debug\net5.0\CSBasic.runtimeconfig.json
+D:\CSEnsyu\CSBasic\CSBasic\bin\Debug\net5.0\CSBasic.runtimeconfig.dev.json
+D:\CSEnsyu\CSBasic\CSBasic\bin\Debug\net5.0\CSBasic.dll
+D:\CSEnsyu\CSBasic\CSBasic\bin\Debug\net5.0\ref\CSBasic.dll
+D:\CSEnsyu\CSBasic\CSBasic\bin\Debug\net5.0\CSBasic.pdb
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.csproj.AssemblyReference.cache
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.AssemblyInfoInputs.cache
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.AssemblyInfo.cs
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.csproj.CoreCompileInputs.cache
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.dll
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\ref\CSBasic.dll
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.pdb
+D:\CSEnsyu\CSBasic\CSBasic\obj\Debug\net5.0\CSBasic.genruntimeconfig.cache
